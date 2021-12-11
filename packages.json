@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "10 Days to Doom",
+      "name" : "tendays",
+      "version" : "2021-12-11-15-56-14",
+      "location" : "tendays.json",
+      "priority" : 1
+    }
+  ]
+}
